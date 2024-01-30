@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "e01d",
+      "text": "Food shopping",
+      "day": "February 2nd at 7:00PM",
+      "reminder": true
+    },
+    {
+      "id": "ba5f",
+      "text": "Grandma's birthday",
+      "day": "March 1st at 8:00PM",
+      "reminder": true
+    },
+    {
+      "id": "df07",
+      "text": "Take my dog for a walk at the park",
+      "day": "February 3rd at 7:00AM",
+      "reminder": false
+    }
+  ]
+}
